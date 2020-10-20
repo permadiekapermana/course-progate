@@ -1,2 +1,2 @@
 # course-progate
-Latihan kursus online dari progate.id
+Latihan kursus online dari progate.com
